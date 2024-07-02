@@ -5,7 +5,7 @@
 applications=(
   brave-browser
   visual-studio-code
-  intellij-idea-ce
+  intellij-idea
   zoom
   iterm2
   1password
