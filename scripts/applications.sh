@@ -3,18 +3,15 @@
 #### APPLICATIONS ####
 
 applications=(
-  brave-browser-beta
+  brave-browser
   visual-studio-code
   intellij-idea-ce
   zoom
-  alacritty
+  iterm2
   1password
-  calibre
   flycut
-  virtualbox
-  numi
-  balenaetcher
   rectangle
+  spotify
 )
 
 for i in "${applications[@]}"; do 

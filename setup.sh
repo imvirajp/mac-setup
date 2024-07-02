@@ -24,18 +24,15 @@ brew upgrade
 
 brew install git
 
-git clone https://github.com/luckyganesh/mac-setup.git
+git clone https://github.com/imvirajp/mac-setup.git
 
-cd mac-setup
+cd ~/mac-setup
 
 source install.sh
 
 cd ~
 
-echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
-sudo chsh -s /opt/homebrew/bin/fish
-
-git clone https://github.com/luckyganesh/dotfiles.git
+git clone https://github.com/imvirajp/dotfiles.git
 
 #cd dotfiles
 #source setup.fish

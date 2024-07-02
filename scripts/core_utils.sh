@@ -4,46 +4,23 @@
 brew tap teamookla/speedtest
 
 coreUtils=(
-    aws-cli
-    terraform
-    starship
-    leiningen
-    clojure
-    stern
     kubectx
     tig
     tree
     bat
-    node
     watch
     ack
     autojump
+    zsh-autosuggestions
+    zsh-syntax-highlighting
     kubernetes-cli
-    tmux
-    minikube
     jq
     docker
-    ccmenu
     flycut
-    fish
     vim
     speedtest
-    kcat
-    fisher
-    direnv
     fzf
-    nvim
-    colima
-    docker-credential-helper
-    helm
-    asdf
-    fish
-    fnm
-    colima
-    k9s
-    azure-cli
-    kind
-    pet
+    nvm
 )
 
 for i in "${coreUtils[@]}"; do 
