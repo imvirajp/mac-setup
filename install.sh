@@ -7,6 +7,9 @@ source ./scripts/applications.sh
 echo "installing core-utils"
 source ./scripts/core_utils.sh
 
+echo "installing zsh configurations"
+source ./scripts/zsh_utils.sh
+
 #echo "node_modules install"
 #source ./scripts/node_modules.sh
 
