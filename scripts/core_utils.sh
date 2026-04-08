@@ -4,7 +4,6 @@
 brew tap teamookla/speedtest
 
 coreUtils=(
-    kubectx
     tig
     tree
     bat
@@ -13,9 +12,7 @@ coreUtils=(
     autojump
     zsh-autosuggestions
     zsh-syntax-highlighting
-    kubernetes-cli
     jq
-    docker
     flycut
     vim
     speedtest
