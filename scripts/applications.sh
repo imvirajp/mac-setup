@@ -11,7 +11,6 @@ applications=(
   1password
   flycut
   rectangle
-  notion
   spotify
 )
 
