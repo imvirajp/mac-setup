@@ -13,8 +13,8 @@ source ./scripts/zsh_utils.sh
 #echo "node_modules install"
 #source ./scripts/node_modules.sh
 
-echo "install vim plugins"
-source ./scripts/vim_plugins.sh
+#echo "install vim plugins"
+#source ./scripts/vim_plugins.sh
 
 #echo "installing vscode plugins"
 #source ./scripts/vscode_plugins.sh
