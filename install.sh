@@ -1,8 +1,8 @@
 echo "exporting home brew no auto update"
 export HOMEBREW_NO_AUTO_UPDATE=1
 
-echo "APPLICATIONS";
-source ./scripts/applications.sh
+#echo "APPLICATIONS";
+#source ./scripts/applications.sh
 
 echo "installing core-utils"
 source ./scripts/core_utils.sh
